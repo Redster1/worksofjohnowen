@@ -2,7 +2,7 @@
 
 All files are from the Internet Archive and are in the public domain.
 
-## Individual Works (10 files, ~260MB)
+## Individual Works (16 files, ~400MB)
 
 | File | Work | Source |
 |------|------|--------|
@@ -16,40 +16,52 @@ All files are from the Internet Archive and are in the public domain.
 | forgiveness-of-sin-psalm130.pdf | The Forgiveness of Sin (Psalm 130 Exposition) | archive.org/details/forgivenessofsin0000owen |
 | spiritually-minded.pdf | The Grace and Duty of Being Spiritually Minded | archive.org/details/gracedutyofbeing00owen |
 | vindiciae-evangelicae.pdf | Vindiciae Evangelicae (Against Socinianism) | archive.org/details/vindi00owen |
+| seventeen-sermons-vol1.pdf | Seventeen Sermons Vol 1 | archive.org/details/seventeensermons01owen |
+| seventeen-sermons-vol2.pdf | Seventeen Sermons Vol 2 | archive.org/details/seventeensermons02owen |
+| sermons.pdf | Additional Sermons | archive.org/details/sermons08owen |
+| twenty-five-discourses-lords-supper.pdf | Twenty-Five Discourses on the Lord's Supper | archive.org/details/twentyfivediscou00owen |
+| vision-unchangeable-mercy.pdf | A Vision of Unchangeable Free Mercy | archive.org/details/avisionofunchang00owenuoft |
+| shaking-heaven-earth-sermon.pdf | Shaking and Translating of Heaven and Earth (Parliament sermon) | archive.org/details/b30375289 |
 
-## Complete Works - Goold Edition (19 volumes, ~963MB)
+## Complete Works - Goold Edition (~1.2GB)
 
 The standard 24-volume edition edited by William H. Goold (1850-1855).
 
-| Volume | Contents | Source ID |
-|--------|----------|-----------|
-| Vol 1 | Life of Owen, Discourse on the Holy Spirit | theworksofowen01owenuoft |
-| Vol 2 | On the Holy Spirit (continued) | worksofjohnowen02owen |
-| Vol 3 | Pneumatologia (continued) | worksofjohnowen03owen |
-| Vol 4 | Holy Spirit, Spiritual Gifts | owensworks04owenuoft |
-| Vol 5 | On the Holy Spirit (continued) | worksofjohnowen05owen |
-| Vol 6 | Temptation, Mortification of Sin, Indwelling Sin | theworksofowen06owenuoft |
-| Vol 7 | Grace and Duty of Being Spiritually Minded | worksofjohnowe07owen |
-| Vol 8 | Sermons | theworksofowen08owenuoft |
-| Vol 10 | Communion with God | works___10owenuoft |
-| Vol 11 | Doctrine of Justification by Faith | theworksofowen11owenuoft |
-| Vol 12 | Christologia, Glory of Christ | worksofjohnowe12owen |
-| Vol 13 | Various Treatises | worksofjohnow13owen |
-| Vol 14 | Various Treatises | worksofjohnowen14owen |
-| Vol 15 | Catechisms, Tracts | worksofjohnowe15owen |
-| Vol 16 | True Nature of a Gospel Church | worksofjohnowe16owen |
-| Vol 17 | Hebrews Exposition (Exercitations) | worksofjohnowen187017owen |
-| Vol 18 | Hebrews Exposition | worksofjohnowe18owen |
-| Vol 19 | Hebrews Exposition | worksofjohnowend0019owen |
+| Volume | Contents |
+|--------|----------|
+| Vol 1 | Life of Owen, Discourse on the Holy Spirit |
+| Vol 2 | On the Holy Spirit (continued) |
+| Vol 3 | Pneumatologia (continued) |
+| Vol 4 | Holy Spirit, Spiritual Gifts |
+| Vol 5 | On the Holy Spirit (continued) |
+| Vol 6 | Temptation, Mortification of Sin, Indwelling Sin |
+| Vol 7 | Grace and Duty of Being Spiritually Minded |
+| Vol 8 | Sermons |
+| Vol 9 | Various Treatises |
+| Vol 10 | Communion with God |
+| Vol 11 | Doctrine of Justification by Faith |
+| Vol 12 | Christologia, Glory of Christ |
+| Vol 13 | Various Treatises |
+| Vol 14 | Various Treatises |
+| Vol 15 | Catechisms, Tracts |
+| Vol 16 | True Nature of a Gospel Church |
+| Vol 17-21 | Hebrews Exposition (Exercitations and Commentary) |
 
 ## Hebrews Exposition - Standalone Editions
 
-| File | Description | Source |
-|------|-------------|--------|
-| hebrews-exposition-01.pdf | Exposition of Hebrews Vol 1 | expositionofepis01owen |
-| hebrews-exposition-1840-01.pdf | 1840 Edition Vol 1 | expositionofepis184001owen |
-| hebrews-exposition-1840-02.pdf | 1840 Edition Vol 2 | expositionofepis184002owen |
+| File | Description |
+|------|-------------|
+| hebrews-exposition-01.pdf | Exposition of Hebrews Vol 1 |
+| hebrews-exposition-1840-01.pdf | 1840 Edition Vol 1 |
+| hebrews-exposition-1840-02.pdf | 1840 Edition Vol 2 |
 
-## Total: ~1.2GB
+## Total: ~1.6GB
 
 All works sourced from archive.org under Public Domain Mark 1.0.
+
+## Not Available on Internet Archive
+
+The following were searched but not found as free PDFs:
+- Assurance: Overcoming the Difficulty of Knowing Forgiveness (modern compilation)
+- Foundation of Communion with God (secondary scholarly work)
+- Rules for Walking in Fellowship

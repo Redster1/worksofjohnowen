@@ -1,14 +1,14 @@
 #!/bin/bash
 # Download John Owen's works from Internet Archive
-# All works are public domain
-# Run from repo root: bash sources/download_works.sh
+# All works are public domain (~1.6GB total)
+# Run: bash sources/download_works.sh
 
 set -e
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 DEST_DIR="$SCRIPT_DIR/internet-archive"
 mkdir -p "$DEST_DIR/complete-works" "$DEST_DIR/individual-works"
 
-echo "=== Downloading Individual Works ==="
+echo "=== Downloading Individual Works (16 files) ==="
 cd "$DEST_DIR/individual-works"
 
 curl -L "https://archive.org/download/deathofdeathinde00owen_0/deathofdeathinde00owen_0.pdf" -o "death-of-death.pdf"
@@ -21,9 +21,15 @@ curl -L "https://archive.org/download/pneumatologiaord0001owen/pneumatologiaord0
 curl -L "https://archive.org/download/forgivenessofsin0000owen/forgivenessofsin0000owen.pdf" -o "forgiveness-of-sin-psalm130.pdf"
 curl -L "https://archive.org/download/gracedutyofbeing00owen/gracedutyofbeing00owen.pdf" -o "spiritually-minded.pdf"
 curl -L "https://archive.org/download/vindi00owen/vindi00owen.pdf" -o "vindiciae-evangelicae.pdf"
+curl -L "https://archive.org/download/seventeensermons01owen/seventeensermons01owen.pdf" -o "seventeen-sermons-vol1.pdf"
+curl -L "https://archive.org/download/seventeensermons02owen/seventeensermons02owen.pdf" -o "seventeen-sermons-vol2.pdf"
+curl -L "https://archive.org/download/sermons08owen/sermons08owen.pdf" -o "sermons.pdf"
+curl -L "https://archive.org/download/twentyfivediscou00owen/twentyfivediscou00owen.pdf" -o "twenty-five-discourses-lords-supper.pdf"
+curl -L "https://archive.org/download/avisionofunchang00owenuoft/avisionofunchang00owenuoft.pdf" -o "vision-unchangeable-mercy.pdf"
+curl -L "https://archive.org/download/b30375289/b30375289.pdf" -o "shaking-heaven-earth-sermon.pdf"
 
 echo ""
-echo "=== Downloading Complete Works Volumes ==="
+echo "=== Downloading Complete Works Volumes (21 volumes) ==="
 cd "$DEST_DIR/complete-works"
 
 curl -L "https://archive.org/download/theworksofowen01owenuoft/theworksofowen01owenuoft.pdf" -o "works-vol-01.pdf"
@@ -34,6 +40,7 @@ curl -L "https://archive.org/download/worksofjohnowen05owen/worksofjohnowen05owe
 curl -L "https://archive.org/download/theworksofowen06owenuoft/theworksofowen06owenuoft.pdf" -o "works-vol-06.pdf"
 curl -L "https://archive.org/download/worksofjohnowe07owen/worksofjohnowe07owen.pdf" -o "works-vol-07.pdf"
 curl -L "https://archive.org/download/theworksofowen08owenuoft/theworksofowen08owenuoft.pdf" -o "works-vol-08.pdf"
+curl -L "https://archive.org/download/worksofjohnow09owen/worksofjohnow09owen.pdf" -o "works-vol-09.pdf"
 curl -L "https://archive.org/download/works___10owenuoft/works___10owenuoft.pdf" -o "works-vol-10.pdf"
 curl -L "https://archive.org/download/theworksofowen11owenuoft/theworksofowen11owenuoft.pdf" -o "works-vol-11.pdf"
 curl -L "https://archive.org/download/worksofjohnowe12owen/worksofjohnowe12owen.pdf" -o "works-vol-12.pdf"
@@ -44,6 +51,8 @@ curl -L "https://archive.org/download/worksofjohnowe16owen/worksofjohnowe16owen.
 curl -L "https://archive.org/download/worksofjohnowen187017owen/worksofjohnowen187017owen.pdf" -o "works-vol-17.pdf"
 curl -L "https://archive.org/download/worksofjohnowe18owen/worksofjohnowe18owen.pdf" -o "works-vol-18.pdf"
 curl -L "https://archive.org/download/worksofjohnowend0019owen/worksofjohnowend0019owen.pdf" -o "works-vol-19.pdf"
+curl -L "https://archive.org/download/worksofjohnowe185002owen/worksofjohnowe185002owen.pdf" -o "works-vol-20.pdf"
+curl -L "https://archive.org/download/worksofjohnowe185005owen/worksofjohnowe185005owen.pdf" -o "works-vol-21.pdf"
 
 echo ""
 echo "=== Downloading Hebrews Exposition ==="
